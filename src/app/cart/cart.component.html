@@ -1,0 +1,88 @@
+<div class="container">
+
+
+  <img src="{{productDetail?.imageUrl}}">
+
+  <div class="details">
+    <div class="header">
+      <h1 class="name">{{productDetail?.productName}}</h1>
+    </div>
+    <div class="crop" [style.width.px]="(productDetail?.starRating!*90) /5">
+      <!--dùng ng-for hiển thị rating -->
+      <div style="width: 90px;">
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+      </div>
+    </div>
+
+    <div class="description">
+         {{productDetail?.description}}
+    </div>
+    <div class="price">
+
+      <h3> {{ productDetail?.price}}đ </h3>
+    </div>
+    <!-- <h5>Quantity in stock : {{InStock}} </h5> -->
+
+
+    <button class="btn btn-primary" (click)="Add()">Buy</button><!--[disabled]="InStock<1" -->
+    <div class="">
+      <div >
+
+        <div class="total">{{ ItemCount()}}</div>
+        <div class="sum">
+          {{ ItemSum() }}đ
+        </div>
+          <button class="btn btn-success" style="margin-top: 10px;" data-toggle="modal" data-target="#modelId">View
+            Cart</button>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!--Modal -->
+<div class="modal fade" id="modelId" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+  <div class="modal-dialog modal-xl" role="document">
+    <div class="modal-content">
+      <table style="width: 100%;" class="text-center table">
+        <tr>
+          <th>Picture</th>
+          <th>Product name</th>
+          <th>Price</th>
+          <th>Quantity</th>
+          <th>Total amount</th>
+          <th></th>
+        </tr><!--dùng ng-for thể hiện giỏ hàng -->
+        <tr *ngFor="let item of cartList;let i=index">
+          <td>
+            <img src="{{item.ImageUrl}}" style="height: 100px;width: 100px;">
+          </td>
+          <td class="align-middle"> {{item.Name}}</td>
+          <td class="align-middle">{{item.Price}}đ
+          </td>
+          <td class="align-middle">{{item.Quantity}}</td>
+          <td class="align-middle">{{item.Price!*item.Quantity!}}đ
+          </td>
+          <td class="align-middle">
+            <button class="btn btn-danger" (click)="Remove(i)">Remove</button>
+          </td>
+        </tr>
+        <tr>
+          <th colspan="2">
+          </th>
+          <th>Tổng Tiền:</th>
+          <th>{{ItemCount()}}</th>
+          <th>{{ ItemSum() }}đ</th>
+          <th>
+            <button class="btn btn-danger" (click)="DeleteAll()">Delete All</button>
+          </th>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col-md-10">
+<ul>
+  <li *ngFor="let item of productHome">
+
+    <a href="" [routerLink]="['/cart', item.id]"><img class="card-img-top p-3" src="{{item.imageUrl}}" width="100%"
+        height="250px" alt=""></a>
+    <div class="content">
+      <div class="name">
+
+        <h4 class="title">{{item.productName}}</h4>
+      </div>
+      <p class="card-text">{{item.price  }}đ</p>
+
+      <!-- <a [routerLink]="['/product-details', item.id]">xem</a> -->
+    </div>
+
+  </li>
+</ul>
+</div>
+</div>

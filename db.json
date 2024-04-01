@@ -1,0 +1,201 @@
+{
+  "product": [
+    {
+      "id": "ayb",
+      "productName": "Khi người ta lớn",
+      "productCode": "",
+      "releaseDate": "2024-03-06",
+      "price": 50000,
+      "description": "",
+      "starRating": 5,
+      "imageUrl": "/assets/images/6.jpg"
+    },
+    {
+      "id": "5eb1",
+      "productName": "Lý thuyết trò chơi",
+      "productCode": "",
+      "releaseDate": "2024-03-06",
+      "price": 65000,
+      "description": "Những kỹ năng trong Lý thuyết trò chơi có thể giúp chúng ta đọc thấu hoạt động tâm lý người khác, và từ đó chiếm thế chủ động trong trò chơi đấu trí giữa những người xung quanh.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/8936066697088.png"
+    },
+    {
+      "id": "8931",
+      "productName": "Khéo ăn nói",
+      "productCode": "",
+      "releaseDate": "2024-03-06",
+      "price": 75000,
+      "description": "Khéo ăn nói sẽ có được thiên hạ,Giá trị của cuốn sách nằm ở chỗ tác giả đã dốc hết tâm sức nghiên cứu về các kĩ năng và quy tắc giao tiếp để đúc kết, truyền tải vào trong những trang sách khiến cho người đọc cảm thấy cuốn hút, và học hỏi được nhiều kĩ năng giúp cho bạn đọc tự tin và thành công trong việc giao tiếp.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/8936067605693.png"
+    },
+    {
+      "id": "5c20",
+      "productName": "Tư duy chiến lượt",
+      "productCode": "",
+      "releaseDate": "2024-03-06",
+      "price": 85000,
+      "description": "Tư duy chiến lược là nghệ thuật vượt qua đối thủ cạnh tranh, với nhận thức rằng họ cũng đang cố gắng vượt qua mình. Mỗi chúng ta đều phải áp dụng tư duy chiến lược, theo cách này hay cách khác, tại nơi làm việc và ngay cả ở nhà. Thương gia và các doanh nghiệp sử dụng các chiến lược cạnh tranh phù hợp để tồn tại. Những huấn luyện viên bóng đá vạch ra các kế hoạch chiến lược để các cầu thủ tiến hành trên sân bóng. Các bậc cha mẹ muốn giáo dục con cái cũng phải trở thành những nhà chiến lược nghiệp dư.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/b_a-tr_c-t_-duy-chi_n-l_c.png"
+    },
+    {
+      "id": "7457",
+      "productName": "Đắc nhân tâm",
+      "productCode": "",
+      "releaseDate": "2024-03-06",
+      "price": 25000,
+      "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ. Trong suốt nhiều thập kỷ tiếp theo và cho đến tận bây giờ, tác phẩm này vẫn chiếm vị trí số một trong danh mục sách bán chạy nhất và trở thành một sự kiện có một không hai trong lịch sử ngành xuất bản thế giới và được đánh giá là một quyển sách có tầm ảnh hưởng nhất mọi thời đại.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/dntttttuntitled.png"
+    },
+    {
+      "productName": "Bộ sách ghi chép pháp y",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 55000,
+      "description": "sach",
+      "starRating": 5,
+      "imageUrl": "./assets/images/055cd615-0716-4f98-9ca7-33aef03b4fad.jpg",
+      "id": "cd3b"
+    },
+    {
+      "productName": "Tư duy chiến lượt",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 35000,
+      "description": "Tư duy chiến lược là nghệ thuật vượt qua đối thủ cạnh tranh, với nhận thức rằng họ cũng đang cố gắng vượt qua mình. Thương gia và các doanh nghiệp sử dụng những chiến lược cạnh tranh phù hợp để tồn tại. Các huấn luyện viên bóng đá vạch ra các kế hoạch chiến lược để các cầu thủ",
+      "starRating": 5,
+      "imageUrl": "./assets/images/b_a-tr_c-t_-duy-chi_n-l_c.png",
+      "id": "112"
+    },
+    {
+      "productName": "Hạt Giống Tâm Hồn",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 90000,
+      "description": "Tác giả : Stephen R Covey",
+      "starRating": 5,
+      "imageUrl": "./assets/images/1.jpg",
+      "id": "114"
+    },
+    {
+      "productName": "Tuổi Trẻ Khát Vọng Và Nỗi Đau",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 13000,
+      "description": "Ở tuổi trẻ, không ai mà không trăn trở, không có hoài bão, ước mơ. Ai cũng mong tự xoay xở tách mình ra khỏi vỏ kén chật chội để tung cánh bay xa. Và bao nhiêu người vượt qua được những nỗi đau đớn, thử thách đó?Khát vọng càng lớn - nỗi đau và thử thách càng nhiều - và mấy ai kiên định trên cuộc hành trình đó. Hãy dám sống cuộc sống mà bạn hằng ao ước - vì bạn chỉ có duy nhất một cuộc sống mà thôi.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/2.jpg",
+      "id": "113"
+    },
+    {
+      "productName": "Hành trình về phương đông",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 130000,
+      "description": "Hành Trình Về Phương Đông kể về những trải nghiệm của một đoàn khoa học gồm các chuyên gia hàng đầu của Hội Khoa Học Hoàng Gia Anh được cử sang Ấn Độ nghiên cứu về huyền học và những khả năng siêu nhiên của con người. Suốt hai năm trời rong ruổi khắp các đền chùa Ấn Độ, chúng kiến nhiều pháp luật, nhiều cảnh mê tín dị đoan, thậm chí lừa đảo...của nhiều pháp sư, đạo sĩ...họ được tiếp xúc với những vị thế, họ được chứng kiến, trải nghiệm, hiểu biết sâu sắc về các khoa học cổ xưa và bí truyền của văn hóa Ấn Độ như Yoga, thiền định, thuật chiêm duyên, nghiệp báo, luật nhân quả, cõi sống và cõi chết....",
+      "starRating": 5,
+      "imageUrl": "./assets/images/3.jpg",
+      "id": "789"
+    },
+    {
+      "productName": "Tôi Tự Học",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 10300,
+      "description": "sach",
+      "starRating": 5,
+      "imageUrl": "./assets/images/4.jpg",
+      "id": "456"
+    },
+    {
+      "productName": "Dám Thất Bại",
+      "productCode": "",
+      "releaseDate": "2024-03-09",
+      "price": 20000,
+      "description": "sach",
+      "starRating": 5,
+      "imageUrl": "./assets/images/5.jpg",
+      "id": "123"
+    },
+    {
+      "id": "617b",
+      "productName": "AAAA",
+      "productCode": "zxc",
+      "releaseDate": "2024-03-09",
+      "price": 450000,
+      "description": "sách A",
+      "starRating": 5,
+      "imageUrl": "./assets/images/1.jpg"
+    },
+    {
+      "id": "534e",
+      "productName": "AAAA",
+      "productCode": "zxc",
+      "releaseDate": "2024-03-09",
+      "price": 450000,
+      "description": "sách A",
+      "starRating": 5,
+      "imageUrl": "./assets/images/1.jpg"
+    },
+    {
+      "id": "d543",
+      "productName": "AAAA",
+      "productCode": "zxc",
+      "releaseDate": "2024-03-09",
+      "price": 450000,
+      "description": "sách A",
+      "starRating": 5,
+      "imageUrl": "./assets/images/1.jpg"
+    },
+    {
+      "id": "2c67",
+      "productName": "AAAA",
+      "productCode": "zxc",
+      "releaseDate": "2024-03-09",
+      "price": 450000,
+      "description": "sách A",
+      "starRating": 5,
+      "imageUrl": "./assets/images/1.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "d1a1",
+      "email": "lehuynhduc587@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "1",
+      "email": "itc@.edu.vn",
+      "pass": "123456789"
+    },
+    {
+      "id": "c29c",
+      "email": "user@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "aeea",
+      "email": "user1@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2e82",
+      "email": "user2@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "0e3a",
+      "email": "user3@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "70dc",
+      "email": "user4@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}

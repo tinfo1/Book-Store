@@ -1,0 +1,22 @@
+.crop{
+    overflow: hidden;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 3rem;
+  margin-left:50px;
+}
+.container > *{
+  min-width: 25rem;
+  max-width:40rem ;
+}
+img{
+  border-radius: 3rem;
+  flex: 1 0;
+  object-fit: cover;
+  height: 30rem;
+  margin: 1rem;
+}

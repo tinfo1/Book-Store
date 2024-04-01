@@ -1,0 +1,33 @@
+ul{
+
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  margin-left: 150px;
+}
+ul li a{
+  height: 15rem;
+  width: 15rem;
+  border: .1px solid whitesmoke;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+li a:hover{
+  opacity: 0.7;
+  /* cursor: pointer; */
+}
+.content{
+  padding: .1rem 1rem;
+  position: relative;
+  color: antiquewhite;
+  text-align: center;
+
+}
+
+

@@ -1,0 +1,12 @@
+table tr th{
+  color: blanchedalmond;
+}
+table tr td{
+  color: aliceblue;
+}
+table tr td a{
+  text-decoration: none;
+  padding: 1em;
+  display: inline-block;
+  color: #f6f5f5;
+}
